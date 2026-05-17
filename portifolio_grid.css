@@ -1,3 +1,6 @@
+/*grid-template-rows nao foi necessario, pois, como nao houve a necessidade de especificar 
+alturas ou larguras para as linhas, o conteudo se ajusta automaticamente.*/
+
 html {
     scroll-behavior: smooth;
 }
